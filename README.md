@@ -27,7 +27,7 @@ The objective of this analysis is to explore the temperature profiles at various
       \[
       \text{Depth (m)} \approx \text{Pressure (dbar)} \times 1.02
       \]
-    - We then filtered the data to only include depths corresponding to pressures greater than or equal to 800 dbar (approximately 800 meters).
+
 
 3. **Visualization**:
     - A 2D density plot (contour plot) was created using Matplotlib to visualize the temperature profile as a function of time and depth.
